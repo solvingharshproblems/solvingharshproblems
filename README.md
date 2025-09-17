@@ -1,7 +1,6 @@
 # Hi there, I'm Harsh 👋
 
 ## 🚀 About Me
-🚀 About Me
 -	🎓 2nd-year B.Tech Computer Science student at MUJ (CGPA: 9.1)
 -	💻 Currently learning Data Structures & Algorithms (C++), Machine Learning (Python), and Web Development
 -	🤖 Interested in AI/ML applications in Finance & Software Systems
