@@ -1,16 +1,11 @@
 # Hi there, I'm Harsh 👋
 
-## 🚀 About Me
--	🎓 2nd-year B.Tech Computer Science student at MUJ (CGPA: 9.1)
--	💻 Currently learning Data Structures & Algorithms (C++), Machine Learning (Python), and Web Development
--	🤖 Interested in AI/ML applications in Finance & Software Systems
--	🌍 Open to internships, research collaborations, and open-source contributions
+I’m a Computer Science student passionate about coding, building impactful projects, and exploring new technologies. Currently deep-diving into DSA, AI/ML, and Cloud Computing.
 
 ## 🛠 Tech Stack
-- Programming: C++, Python, C
-- Web: HTML, CSS, JavaScript
+- Programming: C++, Python, C 
 - Tools: Git, GitHub, VS Code
-- Next Steps: Machine Learning, Advanced DSA, Backend Development
+- Next Steps: Machine Learning, Advanced DSA, Cloud Computing
 
 ## 🏆 Highlights
 - 4 Certifications related to DSA & Artificial Intelligence
